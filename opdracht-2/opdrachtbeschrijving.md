@@ -9,7 +9,6 @@ In `index.html` vindt je de HTML voor de opdracht. Denk eraan:
 Weet je niet meer welke properties er ook alweer waren? Gebruik dan deze [bron](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 ## Opdracht 2.1:
-Zorg dat het paarse review-blok er zo uit komt te zien door flexbox te gebruiken:
 
 ![Opdracht 2.1](./assets/one.png "Eindresultaat")
 

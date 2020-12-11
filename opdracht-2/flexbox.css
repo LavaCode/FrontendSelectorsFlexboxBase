@@ -1,3 +1,73 @@
 /* ======================================================
    OEFENEN MET FLEXBOX
 ========================================================= */
+/* opdracht 2.1 */
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+/* opdracht 2.2 */
+.two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* opdracht 2.3 */
+.three {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+ul{
+    display: flex;
+    flex-basis: 300px;
+    justify-content: space-between;
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
+
+/* opdracht 2.4 */
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+label[for = "username"]{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+label[for = "password"]{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+ /* opdracht 2.5 */
+.five{
+    display: flex;
+    flex-wrap: wrap;
+}
+.five article{
+    width: calc(33.33% - 40px);
+    min-width: 300px;
+    flex-grow: 1;
+}
+
+

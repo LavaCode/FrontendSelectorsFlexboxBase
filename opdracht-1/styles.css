@@ -19,7 +19,7 @@ nav ul {
 }
 
 article {
-    border-bottom: 1px dotted hsl(4, 0%, 82%);
+    border-bottom: 1px dotted hsl(4, 0%, 82%);  /*werkt nog niet */
 }
 
 footer {
