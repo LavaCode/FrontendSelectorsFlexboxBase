@@ -47,13 +47,7 @@ div{
     justify-content: center;
 }
 
-label[for = "username"]{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
-
-label[for = "password"]{
+label{
     display: flex;
     justify-content: center;
     flex-direction: column;
